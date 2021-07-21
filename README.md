@@ -1,0 +1,3 @@
+- Hi, my name is Samuel, aka @semmelsamu
+- I am interested in Web-Development, primarily with PHP
+- You can reach me via E-Mail: [mail@skroiss.de](mailto:mail@skroiss.de)
