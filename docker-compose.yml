@@ -1,0 +1,10 @@
+services:
+
+  apache:
+    build:
+      context: ./Docker/
+      dockerfile: Dockerfile
+    ports:
+      - 80:80
+    volumes:
+      - .:/var/www/html
