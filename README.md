@@ -15,9 +15,9 @@ Here is a list of some things that I have used (or am still using):
 - PHP
 
 
-## Things i like
+## Things I like
 
-I am interested in web development & web design. I'm also interested in UX/UI design. And i like 2d game development.
+I am interested in web development & web design. I'm also interested in UX/UI design. And I like 2d game development.
 
 
 ## How to reach me

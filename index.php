@@ -7,8 +7,6 @@ $Parsedown = new Parsedown();
 $content = $Parsedown->text(file_get_contents("./README.md"));
 
 ?>
-
-
 <!doctype html>
 <html lang="en">
 <head>
@@ -21,9 +19,20 @@ $content = $Parsedown->text(file_get_contents("./README.md"));
 </head>
 <body>
 
-    <article>
-        <?= $content ?>
-    </article>
+    <div id="window">
+        <div id="darkener"></div>
+        <header>
+            <ul>
+                <li><a href="https://www.instagram.com/semmelfoto/" target="_blank"><img src="img/instagram.svg" alt="Instagram"></a></li>
+                <li><a href="https://github.com/semmelsamu" target="_blank"><img src="img/github.svg" alt="GitHub"></a></li>
+                <li><a href="https://www.youtube.com/c/semmelsamu" target="_blank"><img src="img/youtube.svg" alt="YouTube"></a></li>
+                <li><a href="mailto:samuel@kroiss.io" target="_blank"><img src="img/envelope-regular.svg" alt="E-Mail"></a></li>
+            </ul>
+        </header>
+        <article>
+            <?= $content ?>
+        </article>
+    </div>
 
 </body>
 </html>
