@@ -22,4 +22,4 @@ I am interested in web development & web design. I'm also interested in UX/UI de
 
 ## How to reach me
 
-You can write an E-Mail to [samuel@kroiss.io](mailto:samuel@kroiss.io). I will try to answer ASAP. Please understand that I might don't have much time at the moment, as my studies are my priority.
+You can write an E-Mail to [mail@samuelkroiss.de](mailto:mail@samuelkroiss.de). I will try to answer ASAP. Please understand that I might don't have much time at the moment, as my studies are my priority.
